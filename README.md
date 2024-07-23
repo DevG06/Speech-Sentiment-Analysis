@@ -1,6 +1,6 @@
 # Speech Sentiment Analysis
 
-This project aims to analyze and classify emotions from speech signals using various machine learning models. The datasets used in this project include Crema, Ravdess, Savee, and Tess. Data augmentation techniques such as noise introduction, pitch shifting, and stretching were applied to enhance the dataset. Features such as MFCCs, Energy and Entropy of Energy, Zero Crossing Rate, Mel-Spectrogram, and Spectral Features were extracted for analysis.
+This project aims to analyze and classify emotions from speech signals using various deep learning models. The datasets used in this project include Crema, Ravdess, Savee, and Tess. Data augmentation techniques such as noise introduction, pitch shifting, and stretching were applied to enhance the dataset. Features such as MFCCs, Energy and Entropy of Energy, Zero Crossing Rate, Mel-Spectrogram, and Spectral Features were extracted for analysis.
 
 ## Table of Contents
 
