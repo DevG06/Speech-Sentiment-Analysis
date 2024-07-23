@@ -12,7 +12,6 @@ This project aims to analyze and classify emotions from speech signals using var
 - [Results](#results)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Introduction
