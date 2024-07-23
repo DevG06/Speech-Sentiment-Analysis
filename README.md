@@ -157,4 +157,4 @@ cd speech-sentiment-analysis
 3. Run the Jupyter notebooks provided to preprocess the data, extract features, and train the models.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](LICENSE).
