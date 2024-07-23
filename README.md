@@ -57,7 +57,9 @@ Four machine learning models were built and evaluated for this project:
 
 ## Results
 
-The models were evaluated based on their accuracy and other relevant metrics. The CNN-LSTM model showed the highest performance, achieving a validation accuracy of 74%.
+The models were evaluated based on their accuracy and other relevant metrics. The CNN model showed the highest performance, achieving a validation accuracy of 70%.
+
+![CNN_Loss curve](https://github.com/user-attachments/assets/9fed9d71-2391-4c29-b882-f4e4e599f5e6)
 
 ## Installation
 
