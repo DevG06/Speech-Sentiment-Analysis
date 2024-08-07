@@ -73,11 +73,11 @@ To use the models for speech sentiment analysis, follow these steps:
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/your-username/speech-sentiment-analysis.git
+git clone https://github.com/DevG06/Speech-Sentiment-Analysis.git
 ```
 2. Navigate to project directory:
 ```bash
-cd speech-sentiment-analysis
+cd Speech-Sentiment-Analysis
 ```
 
 3. Run the Jupyter notebooks provided to preprocess the data, extract features, and train the models.
